@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pizza-app/static/css/main.1c59659b.css",
+    "main.js": "/pizza-app/static/js/main.04770b58.js",
+    "static/js/787.11f7a8ac.chunk.js": "/pizza-app/static/js/787.11f7a8ac.chunk.js",
+    "static/media/pizza.png": "/pizza-app/static/media/pizza.6f2a3557a6fc1c60335c.png",
+    "static/media/PIZZABGC.jpg": "/pizza-app/static/media/PIZZABGC.0e9f0b87aab6e56ea3b3.jpg",
+    "static/media/dhabe-da-keema.jpg": "/pizza-app/static/media/dhabe-da-keema.3030cef108087387d908.jpg",
+    "static/media/mazedar-makhni-paneer..jpg": "/pizza-app/static/media/mazedar-makhni-paneer..d0c7f811013cc2c277d5.jpg",
+    "static/media/ultimate-tandoori-.jpg": "/pizza-app/static/media/ultimate-tandoori-.dde805177ed6b60230bd.jpg",
+    "static/media/cheezy-mushroom-.jpg": "/pizza-app/static/media/cheezy-mushroom-.99fb2ca1e03ab41652d8.jpg",
+    "static/media/awesome-american-cheesy.jpg": "/pizza-app/static/media/awesome-american-cheesy.8bbf5ae7db90325bd54d.jpg",
+    "static/media/classic-onion-capsicum.jpg": "/pizza-app/static/media/classic-onion-capsicum.b1c67871a3111004836b.jpg",
+    "static/media/schezwan-corn-&-capsicum.jpg": "/pizza-app/static/media/schezwan-corn-&-capsicum.f66a57087dc70be9ed53.jpg",
+    "index.html": "/pizza-app/index.html",
+    "main.1c59659b.css.map": "/pizza-app/static/css/main.1c59659b.css.map",
+    "main.04770b58.js.map": "/pizza-app/static/js/main.04770b58.js.map",
+    "787.11f7a8ac.chunk.js.map": "/pizza-app/static/js/787.11f7a8ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c59659b.css",
+    "static/js/main.04770b58.js"
+  ]
+}
