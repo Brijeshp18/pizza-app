@@ -27,30 +27,38 @@
   }
   
   .headerContainer p {
-    padding: 0;
+    
+    padding-top: 30px;
     font-size: 40px;
     font-weight: lighter;
     color: rgb(228, 216, 216);
   }
-  
+  .button-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   .headerContainer button {
-    color: black;
+    background-color: black;
+      color: #61b0eb;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    justify-content: center;
-    background-color: #121619;
+   
+
     height: 50px;
     width: 180px;
-    color: white;
+  
     text-decoration: none;
     font-size: 20px;
   }
   
   .headerContainer button:hover {
-    background-color: #209bd9;
+    background-color: #3c4d56;
     cursor: pointer;
     transition: 0.3s ease-in;
+    color: black;
   }
 
   @media only screen and (max-width: 991px) {
@@ -65,10 +73,10 @@
       padding: 10px;
       width: 80%;
       display: flex;
-      justify-content:flex-start;
-      align-items: flex-start;
+      justify-content:center;
+      align-items: center;
       flex-direction: column;
-      color: white;
+      color:rgb(239, 236, 231)
     }
   
     .headerContainer h1 {
@@ -80,15 +88,20 @@
     .headerContainer p {
       font-size: 40px;
       color: white;
-      padding: 10px;
+      padding-top: 30px;
+      margin-left: 50px;
     }
   
     .headerContainer button {
-      background-color: rgb(216, 16, 156);
+      background-color: black;
       color: #61b0eb;
       margin: 30px;
     }
-  
+    .button-wrap{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
    button:hover {
       background-color: rgb(130, 14, 14);
       color: #d2460f;
@@ -101,14 +114,36 @@
     .headerContainer h1 {
       font-size: 90px;
       height: 40px;
-      color: white;
+      color:rgb(239, 236, 231)
+    }
+    .button-wrap{
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   
     .headerContainer p {
-      font-size: 31px;
+      font-size: 34px;
       color: white;
       padding: 40px;
       margin-top: 32px;
     }
     
+  }
+  @media only screen and (max-width:750px) {
+
+
+  
+    .headerContainer h1 {
+      font-size: 78px;
+      height: 4px;
+      color:rgb(239, 236, 231)
+    }
+    
+    .headerContainer p {
+      font-size: 31px;
+      color: white;
+      padding: 8px;
+      margin-top: 32px;
+    }
   }

@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className='footer'>
      <div className='socialMedia'>
-      <a  href='https://www.instagram.com/'><InstagramIcon/></a> <WhatsappIcon/><FacebookIcon/>
+      <a  href='https://www.instagram.com/'><InstagramIcon/></a> <a  href='https://www.whatsapp.com/'><WhatsappIcon/></a> <a  href='https://www.fb.com/'><FacebookIcon/></a>
      </div>
      <p> &copy; 2023 brijeshpizza.com </p>
     </div>

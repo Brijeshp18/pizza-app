@@ -40,7 +40,7 @@
 
   
     .aboutBottom p {
-      font-size: 24px;
+      font-size: 13px;
       width:90%
   }
     
@@ -61,7 +61,7 @@
 
   @media only screen and (max-width:576px) {
     .aboutBottom p {
-      font-size: 12px;
+      font-size: 10px;
       width:60%
   }
   .about .aboutBottom h1 {
